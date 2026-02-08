@@ -18,7 +18,7 @@ export const AnalysisOutput: React.FC<AnalysisOutputProps> = ({ result }) => {
 
   const renderContent = (content: string) => {
     const lines = content.split('\n');
-    const elements: JSX.Element[] = [];
+    const elements: React.ReactElement[] = [];
     let listItems: string[] = [];
     let inList = false;
 
