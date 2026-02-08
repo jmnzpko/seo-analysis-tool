@@ -163,26 +163,110 @@ List specific content gaps relative to the high-ranking page. Be precise about w
 
 ## C) Search-Engine-Optimized Content Additions
 
-For each gap, provide:
-- **Suggested Heading** (H1/H2/H3 level specified)
-- **Content Block** (1-2 paragraphs written to):
-  - Reinforce topical authority
-  - Expand legal + geographic entity coverage
-  - Increase semantic redundancy
+Okay, now that you have analyzed the content from the competitor you just scanned, write the content in a new article.
 
-**Content Requirements:**
-- Neutral and informational
-- Redundant where useful for algorithms
-- Written for search engines, not persuasion
-- No fluff or marketing language
-- No competitor mentions
+Your goal is to produce a full, high-quality draft that covers ALL of the topics, sections, and themes that the competitor page is addressing, while remaining completely original (do not copy wording or structure verbatim).
 
-**Constraints:**
-- Do NOT optimize for readability
-- Do NOT remove repetition if it reinforces entities
-- Focus purely on algorithmic signals
+When determining tone of voice, style, and positioning, use **our firms tone and voice as reflected in the low-ranking URL I shared with you**. That page represents how our firm communicates and should be used as the baseline for voice, style, and ethos.
 
 ---
 
-Begin your analysis now.`;
+## WRITING CONSIDERATIONS (FOLLOW STRICTLY)
+
+When writing, keep the following in mind at all times:
+
+- My target audience
+- Appropriate tone and voice for my brand and that target audience
+- Readability level: **8th grade**
+- If you are writing content for a practice area page, the first sections must address what people actively looking for an attorney want to know first (e.g., how we can help, what compensation may include, what to do next), not general educational information
+- Ensure the heading order flows naturally from section to section and tells a clear, logical story
+
+---
+
+## REQUIRED ELEMENTS TO INCORPORATE
+
+You must incorporate ALL of the following:
+
+### E-E-A-T
+Include clear signals of experience, expertise, authority, and trust without fabricating facts, statistics, relationships, or case results.
+
+### Local Entities & Authoritative References
+Reference relevant local or legal entities where appropriate.  
+You may reference authoritative sources such as .gov, .edu, or other reputable institutions **only when relevant and accurate**.  
+Do NOT make up statistics, studies, or unsupported claims.  
+Do NOT link to competitors.
+
+Bad example:  
+“Links to expert witness resources can be found through the California State University system’s research departments.”
+
+Good example:  
+“Courts evaluate these claims based on evidence and expert testimony, sometimes supported by research from institutions like UCLA on quality of life after serious injury.”
+
+### Information Gain
+Add meaningful depth beyond generic content by clarifying:
+- processes
+- decision points
+- factors that affect outcomes
+- pitfalls to avoid
+- practical considerations relevant to the topic
+
+### Hypothetical Scenarios & Case Examples
+You may include hypothetical scenarios throughout the content where relevant.  
+If actual case examples are provided in Project Knowledge, you may include them as-is.  
+Do NOT imply that hypothetical scenarios are real firm cases.
+
+### Tables
+Only include tables if they genuinely add value.  
+Do not use tables that simply repeat or summarize content already explained in paragraphs.
+
+---
+
+## CTA REQUIREMENTS
+
+Include single CTA sentences in a **bolded, italicized, centrally aligned blockquote** format.
+
+- First, link to the URLs provided in the CTA links above
+- Once those are used, link to the Contact Us page
+- Do NOT link to blog posts in CTA sections
+- Scatter CTAs at the end of relevant sections to avoid crowding the content
+
+---
+
+## SECTION FORMATTING RULES
+
+For each section, use ONE of the following formats that best matches the header:
+
+- An initial paragraph of **45–50 words** that directly answers the header (you may expand with additional paragraphs if necessary)
+- A brief introduction followed by an ordered list (maximum of 2 sentences per list item)
+- A brief introduction followed by an unordered list (maximum of 2 sentences per list item)
+- Paragraph sections should aim for a **maximum of 3 paragraphs**
+
+---
+
+## FINAL SECTION REQUIREMENTS
+
+### Final CTA Section (H2)
+Include this as your final H2 (reword the heading as a hook).
+
+This section should:
+- Be client-focused
+- Shift emphasis away from what the reader must “know” or “understand”
+- Emphasize how our firm guides, advises, and supports clients
+
+---
+
+## FAQs (REQUIRED)
+
+Include **5 FAQs as H3s** at the end of the article.
+
+Rules:
+- Each FAQ must address a completely different pain point NOT covered elsewhere in the content
+- Each answer must be an initial paragraph of 45 to 50 words
+- Focus on practical, case-specific, or procedural questions
+- Optimize for local relevance and logical question flow
+- Do NOT repeat topics already covered in the main body
+
+---
+
+Write the full article now, following all instructions above.`;
 }
