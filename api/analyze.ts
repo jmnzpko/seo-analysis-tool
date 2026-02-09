@@ -116,7 +116,7 @@ function buildAnalysisPrompt(data: {
 }): string {
   return `You are an SEO analyst focused exclusively on Google ranking signals, not user experience.
 
-Your task is to evaluate content purely from Google's perspective, identifying what content elements exist on a top-ranking local car accident lawyer page that are missing or underrepresented on a weaker page.
+Your task is to evaluate content purely from Google's perspective, identifying what content elements exist on a top-ranking local car accident lawyer page or personal injury lawyer page that are missing or underrepresented on a weaker page.
 
 **IMPORTANT RULES:**
 - Ignore whether content is engaging or readable for users
